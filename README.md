@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erik
-- 🤖 As a profession I develop robotics systems
+- 🤖 Professionally I develop robotics systems
 - 🌍 As a hobby I pretend to do web development
 - 🙇‍♂️ Nice to meet you!
 
