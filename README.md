@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Erik
-- 🤖 My profession is robotics
-- 🌍 My hobby is occasional web development
+- 🤖 As a profession I develop robotics systems
+- 🌍 As a hobby I pretend to do web development
+- 🙇‍♂️ Nice to meet you!
 
 <!---
 evlasblom/evlasblom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
